@@ -1,4 +1,4 @@
-package index
+package hnsw
 
 import uuid "github.com/satori/go.uuid"
 
